@@ -16,7 +16,7 @@ Experience the system in action through our project walkthroughs:
 
 | Demo 1 | Demo 2 | Demo 3 |
 | :---: | :---: | :---: |
-| ![Seeds Demo 1](https://raw.githubusercontent.com/MahmouddSalama/seeds/main/videos/seeds1.mp4) | ![Seeds Demo 2](https://raw.githubusercontent.com/MahmouddSalama/seeds/main/videos/seeds2.mp4) | ![Seeds Demo 3](https://raw.githubusercontent.com/MahmouddSalama/seeds/main/videos/seeds3.mp4) |
+| ![Seeds Demo 1](https://raw.githubusercontent.com/MahmouddSalama/seeds_model/main/videos/seeds1.mp4) | ![Seeds Demo 2](https://raw.githubusercontent.com/MahmouddSalama/seeds_model/main/videos/seeds2.mp4) | ![Seeds Demo 3](https://raw.githubusercontent.com/MahmouddSalama/seeds_model/main/videos/seeds3.mp4) |
 
 > [!NOTE]
 > If the videos do not play directly in your browser, you can find them in the `videos/` directory of the repository.
@@ -216,7 +216,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact & Support
 **Mahmoud Salama**
 - GitHub: [@MahmouddSalama](https://github.com/MahmouddSalama)
-- Project Link: [https://github.com/MahmouddSalama/seeds](https://github.com/MahmouddSalama/seeds)
+- Project Link: [https://github.com/MahmouddSalama/seeds](https://github.com/MahmouddSalama/seeds_model)
 
 ---
 
